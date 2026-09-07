@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 作品接手指南"
+  short_description: "围绕 AI 已完成的作品，用真实界面截图和必要原理，教你亲手修改并检查结果"
+  default_prompt: "使用 $software-quickstart，这个作品已经做好了，先检查实际工程，再教我自己修改感兴趣的部分。"

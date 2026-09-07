@@ -1,0 +1,38 @@
+{
+  "app": "Adobe Photoshop 2024",
+  "date": "2026-09-07",
+  "project": "practice.psd / finished.psd",
+  "screenshots": [
+    {
+      "file": "01-open.png",
+      "state": "PSD opened; English layer selected",
+      "source": "actual sky app screenshot",
+      "verified": true
+    },
+    {
+      "file": "02-select.png",
+      "state": "Chinese type icon double clicked; all title text selected",
+      "source": "actual sky app screenshot",
+      "verified": true
+    },
+    {
+      "file": "03-edit.png",
+      "state": "Title replaced with 好牛啊; editing active",
+      "source": "actual sky app screenshot",
+      "verified": true
+    },
+    {
+      "file": "04-commit.png",
+      "state": "Title committed",
+      "source": "actual sky app screenshot",
+      "verified": true
+    },
+    {
+      "file": "06-restored.png",
+      "state": "Edit menu undo restored 牛来了",
+      "source": "actual sky app screenshot",
+      "verified": true
+    }
+  ],
+  "publication_note": "Public copy of a verified local demonstration. Save-dialog screenshot omitted because it displayed unrelated local directories. Publishing checks do not constitute a new Photoshop test."
+}
