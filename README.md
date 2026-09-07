@@ -8,7 +8,7 @@
 
 ![真实案例：在 Photoshop 中接手修改牛来了海报](examples/photoshop-title/assets/01-open.png)
 
-## 看一个真实案例
+## 案例
 
 AI 在 Photoshop 中完成了「牛来了」海报。用户选择先学修改标题，随后得到一份针对这张海报的指南：
 
