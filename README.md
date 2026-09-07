@@ -6,7 +6,7 @@
 
 [直接打开 Photoshop 案例：把「牛来了」改成自己的标题](examples/photoshop-title/index.html)
 
-这是一份已经生成好的 HTML 接手指南，包含真实界面截图、练习 PSD、完成示范、撤销和保存步骤。也可以通过仓库的 [GitHub Pages 入口](https://jaidynsun6-eng.github.io/software-quickstart/)直接阅读。
+这是一份已经生成好的 HTML 接手指南，包含真实界面截图、练习 PSD、完成示范、撤销和保存步骤。
 
 跟着案例让 AI 做出一张海报、一个房间或一个网页之后，你可能还是不知道怎么自己改标题、挪家具、换图片。
 
